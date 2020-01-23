@@ -24,13 +24,13 @@ Go to your <a href="https://dashboard.verygoodsecurity.com/" target="_blank">VGS
 
 Clone demo application repository.
 
-``https://github.com/verygoodsecurity/ios-sdk-demo.git``
+``git clone git@github.com:verygoodsecurity/ios-sdk-demo.git``
 
 #### Step 3
 
 Install demoapp pods.
 
-Open Terminal and change working directory to `demoapp` inside `ios-sdk-demo` folder:
+Open Terminal and change working directory to `demoapp` that is inside `ios-sdk-demo` folder:
 
 `$ cd ~/demoapp`
 
