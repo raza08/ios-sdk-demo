@@ -31,17 +31,21 @@ Clone demo application repository.
 Install demoapp pods.
 
 Open Terminal and change working directory to `demoapp` inside `ios-sdk-demo` folder:
+
 `$ cd ~/demoapp`
 
 Install pods:
+
 `pod install`
 
 
 #### Step 4
 
-In `demoapp` folder find and open demoapp`.xcworkspace` file.
+In `demoapp` folder find and open `demoapp.xcworkspace` file.
 In the app go to `ViewController.swift` file, find the line
+
 `var vgsForm = VGSCollect(id: "VaultId", environment: .sandbox)`
+
 and replace `VaultId` with your organization
  <a href="https://www.verygoodsecurity.com/docs/terminology/nomenclature#vault" target="_blank">vault id</a>. 
  
