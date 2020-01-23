@@ -1,6 +1,6 @@
 ## VGS Collect iOS SDK Demo
 
-This examples shows how easily you can integrate <a href="https://github.com/verygoodsecurity/vgs-collect-android">VGS Collect iOS SDK</a> 
+This examples shows how easily you can integrate <a href="https://github.com/verygoodsecurity/vgs-collect-ios">VGS Collect iOS SDK</a> 
 into your application and secure sensitive data with us.
 
 <p align="center">
