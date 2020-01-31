@@ -57,7 +57,7 @@ Instruction for this step you can find <a href="https://www.verygoodsecurity.com
 
 ### Useful links
 
-- <a href="https://www.verygoodsecurity.com/docs/vgs-collect/ios-sdk" target="_blank">Documentation</a> 
+- <a href="https://www.verygoodsecurity.com/docs/vgs-collect/ios-sdk/index" target="_blank">Documentation</a> 
 - <a href="https://github.com/verygoodsecurity/vgs-collect-ios" target="_blank">Repo</a> 
 - <a href="http://cocoapods.org/pods/VGSCollectSDK" target="_blank">CocoaPods</a> 
 
