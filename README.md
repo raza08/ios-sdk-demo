@@ -42,11 +42,11 @@ Install pods:
 #### Step 4
 
 In `demoapp` folder find and open `demoapp.xcworkspace` file.
-In the app go to `ViewController.swift` file, find the line
+In the app go to `ViewController.swift` file, find the line:
 
-`var vgsForm = VGSCollect(id: "VaultId", environment: .sandbox)`
+`let vaultId = "vaultId"`
 
-and replace `VaultId` with your organization
+and replace `vaultId` with your organization
  <a href="https://www.verygoodsecurity.com/docs/terminology/nomenclature#vault" target="_blank">vault id</a>. 
  
 ### Step 5 
