@@ -4,7 +4,7 @@ This examples shows how easily you can integrate <a href="https://github.com/ver
 into your application and secure sensitive data with us.
 
 <p align="center">
-    <img src="./vgs-collect-ios-demo-gif-low.gif" width="250">
+<img src="./ios-cardio-scan-card.gif" width="250">
 </p>
 
 ## How to run it?
