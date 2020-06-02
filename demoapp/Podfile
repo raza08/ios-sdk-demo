@@ -6,7 +6,7 @@ target 'demoapp' do
 
   # Pods for demoapp
 
-  pod 'VGSCollectSDK'
+  pod 'VGSCollectSDK', '1.5.2'
   pod 'VGSCollectSDK/CardIO'
 
 
