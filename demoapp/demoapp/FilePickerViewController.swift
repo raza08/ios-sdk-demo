@@ -9,8 +9,6 @@
 import UIKit
 import VGSCollectSDK
 
-let vaultId = "vaultId"
-
 /// A class that demonstrates how to use VGSFilePicker for uploading files to VGS
 class FilePickerViewController: UIViewController {
 
